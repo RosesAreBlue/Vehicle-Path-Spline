@@ -1,6 +1,7 @@
 # Vehicle-Path-Spline
 This is a work in progress.
 https://www.geogebra.org/m/kf3qkqx5
+The concept will involve being able to create easily curved paths whilst having more control over angular momentum. This could have applications in smooth camera movement in Blender or even (weak) engineering applications for trains that use "twist" to turn or cars that are trying to traverse a loop-the-loop without steering (see https://gamedev.stackexchange.com/questions/173434/generation-of-a-3d-loop-the-loop-with-minimal-steering-required).
 
 First intrinsic rotation about X
 
